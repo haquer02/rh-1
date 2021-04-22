@@ -2,4 +2,5 @@ This is the first line for first commit!
 
 This is the second line for second commit!
 
-This is the third line created on branch two. Before merge, this should only reside on the "two" branch.
+This is the third line. Created on the branch called "two"
+>>>>>>> two
